@@ -1,6 +1,8 @@
 # SatCom Exercise Generator
 
 Unlimited practice problems for a graduate **Satellite Communications** course (NTHU, Chapters 3–9; formulas follow Maral & Bousquet).
+**Live version:** https://pablolescabo.github.io/satcom-exercise-generator/
+
 Each click draws new random values, checks your answers, and shows a step-by-step solution.
 
 **39 exercise types**:
